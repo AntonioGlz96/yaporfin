@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 const uri = 'mongodb+srv://0322103737:gerardo123@cluster0.zhgsgle.mongodb.net/';
-const dbName = 'H2O_Sentinel';
+const dbName = 'H2O_Sentinel';////
 const collectionName = 'v5';
 
 // Habilita CORS para todas las solicitudes
